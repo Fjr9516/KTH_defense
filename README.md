@@ -18,3 +18,7 @@ KTH provides official PowerPoint templates:
 ## Writing
 
 The final dissertation is based on the publications included in your PhD. As a first step, collect all the publications you wish to include in the thesis.
+
+### Reference Management
+
+I use Zotero to manage my references. It can be uploaded directly to Overleaf, and you can create a group library for your thesis.

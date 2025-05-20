@@ -90,6 +90,6 @@ I recommend using **Zotero** for managing references.
 ## Plagiarism Check
 
 - Use **KTH Ouriginal** for plagiarism checks.  
-  - Contact Rodrigo (email: [rodmore.kth@analys.urkund.se](mailto:rodmore.kth@analys.urkund.se)) to submit your PDF.
+  - Contact your supervisor (email: [xxx.kth@analys.urkund.se](mailto:xxx.kth@analys.urkund.se)) to submit your PDF.
 
 ---
